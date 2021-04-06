@@ -1,0 +1,101 @@
+---
+title: "El roble melojo"
+output: word_document
+bibliography: 
+---
+# Introduccion 
+Los robledales de roble melojo o melojares son formaciones dominadas por *Quercus pyrenaica* Willd. que se distribuyen desde el suroeste de Francia hasta el noreste de Marruecos, ocupando su mayor extensión en la Península Ibérica, donde abarcan una amplia variedad de sitios y nichos ecológicos [@NietoQuintanoetal2016QuercusPyrenaica; @GarciaJimenez20099230Robledales; @VilchesdelaSerna2014ComprehensiveStudy; @delaSernaetal2016MarcescentQuercus]. Según el Tercer Inventario Forestal Nacional [@Villanueva2005TercerInventario], estas formaciones ocupan 845.511 ha, lo que supone aproximadamente el 5% de la superficie forestal de España.  
+
+- figura mapa distribución - 
+
+En Sierra Nevada, los melojares ocupan actualmente una extensión de 3400 ha [@PerezLuqueetal2019MapEcosystems], distribuidas entre los 1000 y 2000 metros de altitud, y situados exclusivamente sobre suelos silíceos. (añadir mas)
+
+Esta especie requiere de un mínimo de humedad estival para sobrevivir, que algunos autores han estimado en al menos 100 mm de precipitación entre mayo y agosto [@BlancoCastroetal2005BosquesIbericos; @Prieto1975BosquesSierra]. En Sierra Nevada el aporte extra de humedad necesario proviene de dos vías: de los ríos y acequias de careo, o del aire húmedo proveniente del Mediterráneo [@PrietoEspinosa1977AestisilvaSierra; @MartinezParrasMoleroMesa1982EcologiaFitosociologia; @PerezRayaetal1990VegetacionSierra]. En efecto, los melojares en Sierra Nevada aparecen en aquellos enclaves más húmedos y de menor índice de insolación, principalmente barrancos y fondos de valle donde se dan unas condiciones microclimáticas favorables, tal y como ocurre en la zona occidental en orientaciones norte (ríos Alhama de Lugros, Maitena, Vadillo, Genil, Monachil, Dílar y Dúrcal) (FIGURA manual); o situados ocupando una determinada altura en la vertiente sur (Alpujarras: loma de Cáñar, barranco del Poqueira, loma de Pitres-Busquístar) en donde actúan como una banda de vegetación que intercepta la humedad procedente del Mediterráneo [@Lorite2001VegetacionSierra; @PrietoEspinosa1977AestisilvaSierra]. Estas diferencias también tienen reflejo en la composición florística de las poblaciones de ambas vertientes [@Loriteetal2008PhytosociologicalReview; @MelendoValle2000EstudioComparativo].  
+
+- figura manual distribución --- 
+
+Estos ecosistemas en Sierra Nevada presentan una alta singularidad ecológica. Así, aunque representan menos del 7 % de la superficie forestal existente en Sierra Nevada, atesoran una alta diversidad de especies vegetales en comparación con las otras formaciones forestales [@PerezLuqueetal2014SinfonevadaDataset; @GomezAparicioetal2009ArePine] y albergan a especies vegetales consideradas relictas [@Loriteetal2008PhytosociologicalReview; @Blancaetal1998ThreatenedVascular] (¿Anexo 2?). Además de su singularidad fitosociológica, estas formaciones son importantes desde el punto de vista de la provisión de servicios ecosistémicos. 
+
+# Usos 
+
+@JimenezSanchoetal1998RegionesProcedencia
+
+## Madera
+La madera del roble melojo ha sido otro de los usos de esta especie, aunque con mucha menor importancia que la madera de otros robles, ya que su calidad es inferior a la de los considerados *robles legítimos* [*e.g.* *Quercus robur*, *Q. petraea*. @Colmeiro1854; @JimenezSanchoetal1998RegionesProcedencia]. Las características de dureza y resistencia ha propiciado su empleo en la fabricación de pequeñas piezas (*e.g.* mangos de herramientas)
+
+
+## Corteza
+* La casca es muy buena [@Colmeiro1854]. Según el DRAE se denomina *casca* a la *corteza de ciertos árboles, que se usa para curtir las pieles y teñir artes y aparejos de pesca*. Esto se debe a la presencia de taninos en su corteza.
+
+curtiente ... 
+
+## Aprovechamiento ganadero 
+-- transmocho 
+
+incluir foto (figura) (foto darío)
+
+
+## Alimenticio
+* La bellota para alimentar el ganado de cerda [@Colmeiro1854] 
+
+La bellota es un producto secundario en el aprovechamiento de los melojares, por la baja calidad frente a la bellota de encina, por la marcada irregularidad de las cosechas (debido a su pronunciada vecería) y por la baja producción por pie, especialmente cuando se trata de matas de rebrote [@JimenezSanchoetal1998RegionesProcedencia]. No obstante, debido a que su fructificación suele ocurrir antes que la de la encina, permite alargar el periodo de montanera. EJemplo de montanera en cáñar. 
+
+
+## Enología 
+@Brotoetal2009RebolloEnologia 
+
+Los melojares mas habituales son generalmente montes bajos y medios que tiene su origen en el aprovechamiento tradicional de su leña y en los incendios provocados para mejorar el pasto. En general estos montes bajos están dominados casi completamente por los rebrotes de Qp que forman un matorral alto o arbustedo de hata 7 m. de troncos finos y ramificados desde la base ocupando todos los estratos del bosque. Con frecuencia aparecen pies asilados de mayor tamaño que se respetaban en las cortas para aprovechar fustes grandes como material de construcción (vigas) y como fuente de ramón y fruto (Serrada et al. 1993). 
+
+
+El hombre ha provocado una gran alteración de los melojares, hasta tal punto que el % de las masas de roble son montes bajos (según en IFN). La mayoría de sus masas han estado (y muchas continúan estando) sometidas a intensas cortas y resalveos (citas). 
+
+Los usos tradicionales del melojo han variado poco a lo largo de la historia, aunque si ha variado la intensidad de utilización de acuerdo a los niveles de desarrollo demográfico y tecnológico de las sociedades humanas (CITA). Los principales productos obtenidos del melojo han sido las laeñas, la madera, la corteza, el ramón y las bellotas.  
+
+La utilización de los robles como fuente de combustible, en forma de leña o en forma de carbón, se debe a la buena calidad de estos productos. Existen testimonios de esta utilización desde la antiguedad. Así por ejemplo en Sierra Nevada, cáñar ... 
+
+La leña y el carbón de roble se han empleado como fuentes de energía en las actividades domésticas de las sociedades rurarles pero también en las actividades artesanales e industriales como herrerías, hornos de cal, siderurgia (etc) (citar aquí los datos de Guejar-Sierra). ESte aprovechamiento ha sido la principal causa de la deforestación y alteración de los robledales. Existen ejemplos de minerías en el noreste peninsular que requirieron grandes gantidades de cabon vegetal y que causaron una profunda transformación del paisaje (eg. las Médulas en León). 
+
+Tal fue la explotación de estas formaciones, que durante la Edad Media ya se empezó a hacer patente la escasez de estos recursos (ver lo que dice Prieto Espinar). Además, durante la EDad moderna, se incrementó la presión sobre estos robledales, sobre todo debido al aumento demográfico con el consecuente aumento de la demanda de combustible, madera y terreno para el cultivo. Ejemplo del robledal de S. Jerónimo y los gasógenos. Incluir una foto del robledal de Guejar-Sierra Hotel del Duque. 
+
+De hecho durante la Edad Media se empiezan a dictar diferentes ordenanzas para regular de alguna forma la explotación y aprovechamiento de los bosques y las leñas (ver ejemplos en ... y también en Prieto et al. ) 
+
+
+
+
+# Agallas 
+
+
+
+
+From: 
+Cso´ka G, Stone GN, Melika G. Non-native gall-inducing insects on forest trees: a global review. Biol
+Invasions. Springer; 2017; 19: 3161–3181
+
+Los insectos que inducen las agallas son típicamente muy específicos, sólo agallan un único género de hospedadores o subgrupos específicos (subgéneros, secciones o especies individuales)
+dentro de un género. La mayoría también ataca sólo a órganos específicos de la planta huésped (como hojas, brotes, frutos, flores, raíces). 
+
+
+Some (primarily oak) cynipid galls have
+historically been important resources over the centuries as sources of tanning for production of leather,
+dying of textiles and ink production) and traditional
+medicines (disinfectants, astringents), and have a long
+history of international trade extending back to the
+Roman empire and before (Cso´ka et al. 2005). The
+consequences of this transport are discussed below.
+Most cynipid gallwasps are not considered serious
+pests (Stone et al. 2002), but some notable exceptions
+have considerable economic and/or ecological effects
+on host trees and ecosystems
+
+
+El impacto de la expansión del área de distribución de los inductores de agallas es muy variable. Algunos, como la mayoría de los cinípidos, causan poco más que un daño estético a la salud de la planta, incluso en densidades relativamente altas. Dado que las agallas son estáticas en su planta huésped (en lugar de destruir muchas unidades de la planta, como hacen los herbívoros masticadores), su potencial para causar daños tiende a estar determinado por el órgano agallado. Aquellas especies que restringen el crecimiento (destruyendo las puntas de los brotes o un gran número de yemas) o reducen la fructificación (destruyendo las flores o los frutos) tienen más probabilidades de ser perjudiciales económicamente que las que causan agallas en las hojas. Así, la avispa del castaño es más perjudicial que la mayoría de sus parientes en el roble porque tiene un gran impacto en el crecimiento y la salud del árbol (atacando los brotes), y reduce masivamente la producción de una valiosa cosecha de semillas (Battisti et al. 2014). Una fuerte infestación por esta especie amenaza, pues, tanto la biodiversidad asociada al castaño como una fuente tradicional de ingresos. En cambio, las avispas de los robles que pueden destruir las bellotas en un número equivalente -como Andricus quercuscalicis (Hails y Crawley 1992)- no se consideran plagas graves porque (excepto en los viveros de semillas) las bellotas son un cultivo menos valioso.
+
+
+
+Kotetal2020EffectNeuroterus 
+Los datos generados en este estudio indican que el desarrollo de las agallas de N. quercusbaccarum en las hojas de roble pedunculado tiene un efecto negativo en la planta huésped relacionado con la alteración de la integridad de la membrana celular, la perturbación de la fotosíntesis y la reducción del potencial antioxidante de la planta huésped
+
+
+
+
+
